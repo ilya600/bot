@@ -14,9 +14,9 @@ module.exports = {
 
     // Данные аккаунта cleverbot
     cleverbot: {
-      login:    '<login>',
-      password: '<password>',
-      botapi: 'some unique id here'
+      login:    'mckv2@yandex.ru',
+      password: 'шдшд20197520',
+      botapi: 'CCC4eXDWgbCl9Sza6wwvyFd9SIA'
     },
 
     // Сервис для определения эмоций на лице
@@ -32,14 +32,14 @@ module.exports = {
     // Yandex services keys
     yandex: {
       // API key from yandex speech.kit: https://tech.yandex.ru/speechkit/cloud/doc/dg/concepts/speechkit-dg-tts-docpage/
-      speech_cloud: '',
+      speech_cloud: '51d6892c-fbda-4dbf-8d48-fd809e07ac49',
     },
 
     // openweathermap.com
-    weather: '<api_key>',
+    weather: 'c193b46a6dc7ddf3ca03d543d4aa859e',
 
     // API Key taken from https://console.developers.google.com/apis/credentials?
-    google: '',
+    google: 'AIzaSyATihZuDxSCrjIO4b9XXMtt-kSmowjmq7o',
 
     // Custom search id
     google_cse: '',
@@ -48,7 +48,7 @@ module.exports = {
     // Go to this link then grant access:
     // https://oauth.vk.com/authorize?client_id=3697615&scope=audio,video,docs,photos,offline&response_type=token
     // Then copy access_token value from address link and put into token value below
-    'vk_search_token': '<token>'
+    'vk_search_token': 'ffacce5a8ae0deabadcb11e55317de17e35812d5c2044eeadd2c0a49a5a3a660dcc30ab0870836581dc07'
   },
 
   // Limits per command
@@ -151,8 +151,8 @@ module.exports = {
 
   // Приложение ВКонтакте, через которое идут запросы к API
   'vk-app': {
-    id:     '<app_id>',      // Number
-    secret: '<app_secret>' // String
+    id:     '5869138',      // Number
+    secret: 'zC4gwdzWan70C3sVPz0s' // String
   },
 
   // Данные для обработки и отправки сообщений в сообщениях сообщества
