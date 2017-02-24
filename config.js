@@ -48,7 +48,7 @@ module.exports = {
     // Go to this link then grant access:
     // https://oauth.vk.com/authorize?client_id=3697615&scope=audio,video,docs,photos,offline&response_type=token
     // Then copy access_token value from address link and put into token value below
-    'vk_search_token': 'ffacce5a8ae0deabadcb11e55317de17e35812d5c2044eeadd2c0a49a5a3a660dcc30ab0870836581dc07'
+    'vk_search_token': '99040850d24dda7bc41a0b28cf8e092307b73fdff8c5ccb40e0720c289c513a16b3116f84479fef184865'
   },
 
   // Limits per command
