@@ -6,13 +6,13 @@
 
 module.exports = {
   // ID бота
-  "391469612": {
-    "_cond": false, 
+  "399159801": {
+    "_cond": "false", 
     // Данные для авторизации
     "auth":  {
-      "login": "compmarket045@gmail.com", 
-      "pass":  "iLk20197520", 
-      "phone": "<>"
+      "login": "mckv2@yandex.ru", 
+      "pass":  "adamkotov", 
+      "phone": "+79603506002"
   }
  }
 }
